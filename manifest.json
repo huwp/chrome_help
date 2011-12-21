@@ -1,0 +1,13 @@
+{
+  "name": "Chrome Extensions api",
+  "version": "1.1",
+  "description": "Chrome Extensions 帮助文档",
+  "background_page": "background.html",
+  "browser_action": {
+    "default_title": "chrome api 帮助文档"
+  },
+  "icons": {
+    "128": "img/icon-128.png",
+    "48":"img/icon-48.png"
+  }
+}
